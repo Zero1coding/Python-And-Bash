@@ -1,5 +1,5 @@
 # Python-And-Bash
-#Task 1: Grade Checker
+# Task 1: Grade Checker
 Objective
 
 Take a score as input and print the grade using basic if-else conditions.
@@ -35,7 +35,7 @@ Explanation
 
 The program takes marks as input, converts them into an integer, and uses if-else statements to determine and display the grade.
 
-#Task 2: Student Grades Management
+# Task 2: Student Grades Management
 Objective
 
 Create a dictionary to store student names and their grades. The program allows adding new students, updating existing grades, and viewing all student records.
@@ -85,7 +85,7 @@ Explanation
 
 A dictionary is used to store student data. The program runs continuously and performs actions based on user input using conditional statements.
 
-#Task 3: Write to a File
+# Task 3: Write to a File
 Objective
 
 Create a text file and write content into it using Python file handling.
@@ -106,7 +106,7 @@ Explanation
 
 The file is opened in write mode, content is written using the write() function, and the file is closed to save changes.
 
-#Task 4: Read from a File
+# Task 4: Read from a File
 Objective
 
 Read content from a text file and display it on the screen.
